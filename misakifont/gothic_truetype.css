@@ -1,6 +1,8 @@
 /*
 name: 美咲フォント
 site: http://littlelimit.net/misaki.htm
+copy: head: <link rel="stylesheet" href="https://raw.githubusercontent.com/yeswasi/fontcss/master/misakifont/gothic_truetype.css">
+      style: { font-family:'MisakiFont Gothic', sans-serif;}
 */
 @font-face {
      font-family: 'MisakiFont Gothic';
