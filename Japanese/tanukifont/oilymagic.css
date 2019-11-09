@@ -1,0 +1,14 @@
+/*
+name: たぬき油性マジック
+site: https://tanukifont.com/tanuki-permanent-marker/
+copy: head: <link rel="stylesheet" href="https://raw.githubusercontent.com/yeswasi/fontcss/master/Japanese/tanukifont/oilymagic.css">
+      style: { font-family: 'Tanuki Magic',sans-serif; }
+*/
+@font-face {
+    font-family: 'Tanuki Magic';
+    src: ('https://yeswasi.github.io/TanukiMagic.ttf');
+    format: 'truetype';
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
